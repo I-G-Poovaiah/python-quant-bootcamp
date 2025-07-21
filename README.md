@@ -4,7 +4,7 @@ This repo tracks my learning journey toward becoming a Quant Trader using Python
 
 ## 🔥 Current Focus
 - [x] Enrolled in Zero to Pandas (Jovian)
-- [ ] Completing Week 1 assignments (starting July 22)
+- [ ] Completing Week 1 assignments (starting July 21)
 - [ ] Building CLI Calculator Project
 
 ## 🗓 Weekly Progress
